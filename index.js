@@ -1,0 +1,1 @@
+console.log("Recuperando index 1 antes de borrar rama2");
